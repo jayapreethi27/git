@@ -1,4 +1,4 @@
 # Git Course
 This is a complete git course
 
-#this is from bug branch
+# This is from bug2 branch
